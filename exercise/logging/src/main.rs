@@ -6,8 +6,18 @@ use frogger::Frog;
 //
 // 7. Update Cargo.toml to add the `env_logger` dependency
 
+use log::info;
+
 fn main() {
     // 8. Initialize env_logger using the init() function at the top level of the library
+
+    // Initialize logging
+    // env_logger::init();
+    log4rs::init_file("logging.yml", Default::default()).unwrap();
+    log::set_max_level(log::LevelFilter::Info);
+
+    // Example log message
+    info!("This is an informational message");
 
     // 9. Run this program with `cargo run` and take a look at the default output.
     // - Now run it again with an explicit log level, like `RUST_LOG=info cargo run`

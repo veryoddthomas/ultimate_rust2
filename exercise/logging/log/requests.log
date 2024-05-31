@@ -1,0 +1,36 @@
+[2024-05-29T22:20:16 INFO   frogger] This is an informational message
+[2024-05-29T22:20:16 INFO   frogger] A Frog hopped! Remaining energy: 4
+[2024-05-29T22:20:16 INFO   frogger] A Frog hopped! Remaining energy: 3
+[2024-05-29T22:20:16 INFO   frogger] A Frog hopped! Remaining energy: 2
+[2024-05-29T22:20:16 INFO   frogger] A Frog hopped! Remaining energy: 1
+[2024-05-29T22:20:16 INFO   frogger] A Frog hopped! Remaining energy: 0
+[2024-05-29T22:20:16 WARN   frogger] A Frog will go to sleep since he ran out of energy
+[2024-05-29T22:20:16 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:20:16 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:20:53 INFO   frogger] This is an informational message
+[2024-05-29T22:20:53 INFO   frogger] A Frog hopped! Remaining energy: 4
+[2024-05-29T22:20:53 INFO   frogger] A Frog hopped! Remaining energy: 3
+[2024-05-29T22:20:53 INFO   frogger] A Frog hopped! Remaining energy: 2
+[2024-05-29T22:20:53 INFO   frogger] A Frog hopped! Remaining energy: 1
+[2024-05-29T22:20:53 INFO   frogger] A Frog hopped! Remaining energy: 0
+[2024-05-29T22:20:53 WARN   frogger] A Frog will go to sleep since he ran out of energy
+[2024-05-29T22:20:53 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:20:53 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:38:10 INFO   frogger] This is an informational message
+[2024-05-29T22:38:10 INFO   frogger] A Frog hopped! Remaining energy: 4
+[2024-05-29T22:38:10 INFO   frogger] A Frog hopped! Remaining energy: 3
+[2024-05-29T22:38:10 INFO   frogger] A Frog hopped! Remaining energy: 2
+[2024-05-29T22:38:10 INFO   frogger] A Frog hopped! Remaining energy: 1
+[2024-05-29T22:38:10 INFO   frogger] A Frog hopped! Remaining energy: 0
+[2024-05-29T22:38:10 WARN   frogger] A Frog will go to sleep since he ran out of energy
+[2024-05-29T22:38:10 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:38:10 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:39:44 INFO   frogger] This is an informational message
+[2024-05-29T22:39:44 INFO   frogger] A Frog hopped! Remaining energy: 4
+[2024-05-29T22:39:44 INFO   frogger] A Frog hopped! Remaining energy: 3
+[2024-05-29T22:39:44 INFO   frogger] A Frog hopped! Remaining energy: 2
+[2024-05-29T22:39:44 INFO   frogger] A Frog hopped! Remaining energy: 1
+[2024-05-29T22:39:44 INFO   frogger] A Frog hopped! Remaining energy: 0
+[2024-05-29T22:39:44 WARN   frogger] A Frog will go to sleep since he ran out of energy
+[2024-05-29T22:39:44 ERROR  frogger] A Frog is already asleep
+[2024-05-29T22:39:44 ERROR  frogger] A Frog is already asleep
